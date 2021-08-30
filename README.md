@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gityoav
-- 👀 I’m interested in Python related to financial datasets analysis
-- 📫 yoav.git@gmail.com
+- I am Yoav Git
+- I’m interested in Python related to financial datasets analysis
+- yoav.git@gmail.com
 
 <!---
 gityoav/gityoav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
