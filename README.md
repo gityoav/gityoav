@@ -1,6 +1,4 @@
-- I am Yoav Git
-- I’m interested in Python related to financial datasets analysis
-- yoav.git@gmail.com
+Welcome, my name is Yoav. I’m interested in Python related to financial datasets analysis. You can contact me on yoav.git@gmail.com
 
 <!---
 gityoav/gityoav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
